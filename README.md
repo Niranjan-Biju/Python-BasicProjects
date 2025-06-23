@@ -1,3 +1,3 @@
 # Python-Udemy
 
-This is where I upload my Python projects I learned from Udemy.
+This is where I upload my Python projects I learned.
